@@ -1,1 +1,1 @@
-Script that display long format with user and group IDs displayed numerically and hidden files
+Creating a script that creates a directory named my_first_directory
