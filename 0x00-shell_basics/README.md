@@ -1,1 +1,1 @@
-Script that display current directory contents in a long format
+print hidden files in a current directory
