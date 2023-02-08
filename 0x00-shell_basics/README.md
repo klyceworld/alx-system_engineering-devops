@@ -1,1 +1,1 @@
-print hidden files in a current directory
+Script that display long format with user and group IDs displayed numerically and hidden files
